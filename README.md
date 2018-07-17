@@ -1,6 +1,7 @@
 # PyMOL Docker
 
-Docker build for PyMOL
+Docker build for PyMOL. Based on PyMOL(TM) technology. PyMOL is a trademark of Schrodinger,
+ LLC. This repository is not affiliated with Schrodinger, LLC.
 
 ## Running PyMOL
 
